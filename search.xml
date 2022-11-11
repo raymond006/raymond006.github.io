@@ -40,8 +40,11 @@ href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 2. 专心于食物，不在吃饭时做其他事情。 3.
 不看推文、博文。除了每月的固定时间。</p>
 <p>f(x)=_{-}<sup>f,e</sup>{2ix},d</p>
-<p><span class="math inline">\(\underset{theta}{\bowtie}\)</span> <span
-class="math inline">\(N^+ = \{x | x\in N \wedge x \ne 0\}\)</span></p>
+<p><span class="math display">\[\begin{equation}\label{eq1}
+e=mc^2
+\end{equation}\]</span></p>
+<p>the famous matter-energy equation<span
+class="math inline">\(eqref{eq1}\)</span> proposed by Einstein</p>
 ]]></content>
       <categories>
         <category>生理</category>
