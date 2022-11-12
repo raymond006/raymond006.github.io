@@ -51,8 +51,8 @@ class="math inline">\(eqref{eq1}\)</span> proposed by Einstein</p>
 <p><span class="math inline">\(\sum{3x^n}\)</span></p>
 <p><span class="math inline">\(a^b\)</span></p>
 <p><span class="math inline">\(\bf{加粗}\)</span></p>
-<p>this is an inline equation: <span class="math display">\[V_{sphere} =
-\frac{4}{3}\pi r^3\]</span>,<br> followed by a display style
+<p>this is an inline equation: <span class="math inline">\(V_{sphere} =
+\frac{4}{3}\pi r^3\)</span>,<br> followed by a display style
 equation:</p>
 <p><span class="math display">\[V_{sphere} = \frac{4}{3}\pi
 r^3\]</span></p>
