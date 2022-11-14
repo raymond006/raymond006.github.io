@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-11-12T04:09:33.434Z</updated>
+  <updated>2022-11-14T02:17:24.788Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试</title>
+    <link href="http://example.com/posts/9daba997.html"/>
+    <id>http://example.com/posts/9daba997.html</id>
+    <published>2022-11-14T02:17:24.766Z</published>
+    <updated>2022-11-14T02:17:24.788Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>这是一个测试</strong></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;这是一个测试&lt;/strong&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="测试" scheme="http://example.com/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+    <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
   
   <entry>
     <title>降低多巴胺阈值</title>
