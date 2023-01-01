@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>biteboring</title>
   
   
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-11-14T02:17:24.788Z</updated>
+  <updated>2022-11-14T02:29:53.856Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/posts/9daba997.html"/>
     <id>http://example.com/posts/9daba997.html</id>
     <published>2022-11-14T02:17:24.766Z</published>
-    <updated>2022-11-14T02:17:24.788Z</updated>
+    <updated>2022-11-14T02:29:53.856Z</updated>
     
     <content type="html"><![CDATA[<p><strong>这是一个测试</strong></p>]]></content>
     
