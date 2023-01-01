@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>测试</title>
+    <url>/posts/9daba997.html</url>
+    <content><![CDATA[<p><strong>这是一个测试</strong></p>
+]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
+      <tags>
+        <tag>测试</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/posts/4a17b156.html</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very
@@ -74,18 +86,6 @@ r^3\]</span></p>
       <tags>
         <tag>多巴胺</tag>
         <tag>信息过载</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>测试</title>
-    <url>/posts/9daba997.html</url>
-    <content><![CDATA[<p><strong>这是一个测试</strong></p>
-]]></content>
-      <categories>
-        <category>测试</category>
-      </categories>
-      <tags>
-        <tag>测试</tag>
       </tags>
   </entry>
 </search>
